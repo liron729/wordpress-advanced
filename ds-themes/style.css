@@ -1,0 +1,13 @@
+/* 
+theme name: DS Theme
+Theme URI: http://digitalschool.tech
+author DS
+author URI: http://digitalschool.tech
+description: DSis a theme for learning purposes
+version: 1.0
+text domain: dstheme
+tags: cool, blue, mobile ready
+*/
+h1{
+    color: blue;
+}
